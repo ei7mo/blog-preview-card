@@ -10,12 +10,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-gaBEMjF-sb)
-- Live Site URL: [Add live site URL here](https://ei7mo.github.io/blog-preview-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-gaBEMjF-sb)
+- [Live Site URL](https://ei7mo.github.io/blog-preview-card/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- Vanilla CSS
+- Semantic HTML
+- CSS properties
